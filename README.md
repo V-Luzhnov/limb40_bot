@@ -5,8 +5,7 @@
 @limb40_bot
 https://web.telegram.org/a/#7595748212
 
-<img width="752" height="1671" alt="image" src="https://github.com/user-attachments/assets/5452ee95-38a8-4e84-94c2-28ee897c0e8f" />
-
+![Screen1](https://github.com/V-Luzhnov/limb40_bot/blob/main/Screen.png?raw=true)
 
 ---
 
